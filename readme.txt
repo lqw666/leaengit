@@ -4,4 +4,9 @@ modified two time
 modified three time
 modified four time
 modified five time
-Create a new branch is quick & simple
+<<<<<<< HEAD
+Create a new branch is quick and simple
+=======
+Create a new branch is quick
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
